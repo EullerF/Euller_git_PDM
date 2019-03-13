@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LLTest</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="SSN">SSN</string>
+    <string name="Age">Age</string>
+    <string name="Email" translatable="false">Email</string>
+</resources>

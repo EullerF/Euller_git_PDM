@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android = "http://schemas.android.com/apk/res/android"
+    xmlns:tools = "http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context =".ShowPersonActivity"
+    >
+
+        <TextView
+            android:id="@+id/txtFirstName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Nova"
+            android:text="@string/FirstName"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/txtFNR"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/textLastName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Nova"
+            android:text="@string/LastName"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/txtLNR"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/txtJOB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Nova"
+            android:text="@string/Job"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/txtJJOB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtAge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Nova"
+            android:text="@string/Age"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/txtAGE"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtPhone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Nova"
+            android:text="@string/Phone"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/txtPHO"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtBirf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Nova"
+            android:text="@string/birthday"
+            android:textSize="24sp" />
+        <TextView
+            android:id="@+id/txtB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtDescrip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Nova"
+            android:text="@string/Description"
+            android:textSize="24sp" />
+        <TextView
+            android:id="@+id/txtDESC"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp" />
+
+</LinearLayout>

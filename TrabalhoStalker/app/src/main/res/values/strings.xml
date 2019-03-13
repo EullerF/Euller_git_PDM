@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TrabalhoStalker</string>
+    <string name="NEW">NEW</string>
+    <string name="LIST">LIST</string>
+    <string name="title_activity_criar">CriarActivity</string>
+    <string name="SAVE">SAVE</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="Age">Age</string>
+    <string name="Job">Job</string>
+    <string name="birthday">Birthday</string>
+    <string name="Phone">Phone</string>
+    <string name="Description">Description</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

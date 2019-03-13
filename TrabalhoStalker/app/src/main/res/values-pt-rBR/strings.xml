@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrabalhoStalker</string>
+    <string name="NEW">NOVO</string>
+    <string name="LIST">LISTAR</string>
+    <string name="SAVE">SALVAR</string>
+    <string name="FirstName">Nome</string>
+    <string name="LastName">Sobrenome</string>
+    <string name="Age">Idade</string>
+    <string name="Job">Trabalho</string>
+    <string name="birthday">Aniversario</string>
+    <string name="Phone">Telefone</string>
+    <string name="Description">Descrição</string>
+</resources>

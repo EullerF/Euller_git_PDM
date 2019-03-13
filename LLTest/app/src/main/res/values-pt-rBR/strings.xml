@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LLTest</string>
+    <string name="first_name">Nome</string>
+    <string name="SSN">CPF</string>
+    <string name="last_name">Ultimo Nome</string>
+    <string name="Age">Idade</string>
+</resources>
